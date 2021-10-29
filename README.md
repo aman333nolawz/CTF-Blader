@@ -30,12 +30,14 @@ Rot47
 
 ROT47 is a derivative of ROT13 which, in addition to scrambling the basic letters, treats numbers and common symbols. Instead of using the sequence A–Z as the alphabet, ROT47 uses a larger set of characters from the common character encoding known as ASCII. Specifically, the 7-bit printable characters, excluding space, from decimal 33 '!' through 126 '~', 94 in total, taken in the order of the numerical values of their ASCII codes, are rotated by 47 positions, without special consideration of case. For example, the character A is mapped to p, while a is mapped to 2. The use of a larger alphabet produces a more thorough obfuscation than that of ROT13.
 For example: `The Quick Brown Fox Jumps Over The Lazy Dog.` enciphers to:`%96 "F:4< qC@H? u@I yF>AD ~G6C %96 {2KJ s@8]`
-Here is a [decoder](https://www.dcode.fr/rot-47-cipher) for Rot47
+is a [decoder](https://www.dcode.fr/rot-47-cipher) for Rot47
 
 Maritime Flags
 -------------
 
-A maritime flag is a flag designated for use on ships, boats, and other watercraft. But it also comes often in puzzles and CTF challenges. Here is a decoder for [Mary time flags](https://www.dcode.fr/maritime-signals-code).
+A maritime flag is a flag designated for use on ships, boats, and other watercraft. But it also comes often in puzzles and CTF challenges. 
+Here is a decoder for [Mary time flags](https://www.dcode.fr/maritime-signals-code).
+
 ![Maritime Flags](https://i.stack.imgur.com/N0IZi.png "Maritime Flags")
 
 Birds on wire
