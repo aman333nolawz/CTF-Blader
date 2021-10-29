@@ -44,7 +44,7 @@ Birds on wire
 The encryption composed of birds represented as perched on an electric wire is in fact an alphabet of substitution by drawings (of the birds). Each bird represents a letter of the Latin alphabet (26 letters from A to Z) according to the correspondence. Here is a [decoder](https://www.dcode.fr/birds-on-a-wire-cipher).
 ![Birds on wirde cipher](https://www.geocachingtoolbox.com/pages/codeTables/birdsOnAWire.png "Birds on wire")
 
-Miscellaneous {#miscellaneous}
+Miscellaneous
 =============
 
 Esoteric Languages
