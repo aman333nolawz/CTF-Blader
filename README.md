@@ -71,3 +71,15 @@ The language's name is a reference to the slang term brainfuck, which refers to 
  
 * [More Info](https://en.wikipedia.org/wiki/Malbolge)
 * [Interpreter](https://malbolge.doleczek.pl/)
+
+### Rockstar
+
+Rockstar is a dynamically typed Turing-complete programming language designed for creating computer programs that are also song lyrics. Rockstar is heavily influenced by the lyrical conventions of 1980s hard rock and power ballads. It was created by Dylan Beattie in 2018
+
+* [More Info](https://esolangs.org/wiki/Rockstar)
+* [Interpreter](https://codewithrockstar.com/online)
+
+Large Calculation
+----------------------
+
+If you are stuck on calculating some big values, try [Wolfram Alpha](https://www.wolframalpha.com/). It can compute larger amounts in seconds.
