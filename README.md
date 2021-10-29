@@ -61,11 +61,13 @@ Brainfuck is an esoteric programming language created in 1993 by Urban Müller.
 Notable for its extreme minimalism, the language consists of only eight simple commands, a data pointer and an instruction pointer. While it is fully Turing complete, it is not intended for practical use, but to challenge and amuse programmers. Brainfuck simply requires one to break commands into microscopic steps.
 
 The language's name is a reference to the slang term brainfuck, which refers to things so complicated or unusual that they exceed the limits of one's understanding.
-[More Info](https://en.wikipedia.org/wiki/Brainfuck)
-[Interpreter](https://tio.run/#brainfuck)
+
+* [More Info](https://en.wikipedia.org/wiki/Brainfuck)
+* [Interpreter](https://tio.run/#brainfuck)
 
 ### Malbolge
 
  Malbolge is a public domain esoteric programming language invented by Ben Olmstead in 1998, named after the eighth circle of hell in Dante's Inferno, the Malebolge. It was specifically designed to be almost impossible to use, via a counter-intuitive 'crazy operation', base-three arithmetic, and self-altering code.[1] It builds on the difficulty of earlier, challenging esoteric languages (such as Brainfuck and Befunge), but takes this aspect to the extreme, playing on the entangled histories of computer science and encryption. Sometimes, it can be misunderstood as `rot47` or `base85`
- [More Info](https://en.wikipedia.org/wiki/Malbolge)
- [Interpreter](https://malbolge.doleczek.pl/)
+ 
+* [More Info](https://en.wikipedia.org/wiki/Malbolge)
+* [Interpreter](https://malbolge.doleczek.pl/)
